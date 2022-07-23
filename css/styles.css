@@ -484,7 +484,7 @@ h3 {
   fill: var(--accent-bt-color);
 }
 
-/* Подвал */
+/* Футер */
 
 .container.footer {
   display: flex;
@@ -671,7 +671,7 @@ a.link-work:focus {
   overflow: hidden;
 }
 
-.product-thumb:hover .product-overlay {
+.link-work:hover .product-overlay {
   transform: translateY(0);
 }
 
